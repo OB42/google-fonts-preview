@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/OB42/google-fonts-preview/issues"
   },
-  "homepage": "https://github.com/OB42/google-fonts-preview#readme"
+  "homepage": "https://github.com/OB42/google-fonts-preview#readme",
+  "dependencies": {
+    "puppeteer": "^20.8.0"
+  }
 }
