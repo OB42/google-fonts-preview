@@ -1,0 +1,30 @@
+{
+  "name": "google-font-previews",
+  "version": "1.0.0",
+  "description": "PNG previews for all Google Fonts and a script to generate them.",
+  "main": "generatePreviews.js",
+  "scripts": {
+    "generate": "node generatePreviews.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OB42/google-fonts-preview.git"
+  },
+  "keywords": [
+    "google-fonts",
+    "google",
+    "fonts",
+    "js",
+    "preview",
+    "typography",
+    "googlefonts",
+    "fontsource",
+    "fontface"
+  ],
+  "author": "otmanebenazzou.pro@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OB42/google-fonts-preview/issues"
+  },
+  "homepage": "https://github.com/OB42/google-fonts-preview#readme"
+}
